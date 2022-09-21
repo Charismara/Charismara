@@ -17,6 +17,6 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/professorakachris) 
-  [![BisectHosting](https://img.shields.io/badge/partnered%20with%20BisectHosting-black?logo=bisecthosting)](https://bisecthosting.com/bloodmoon)
+  [![BisectHosting](https://img.shields.io/badge/partnered%20with%20BisectHosting-black?style=for-the-badge)](https://bisecthosting.com/bloodmoon)
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
